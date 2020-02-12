@@ -1,0 +1,21 @@
+.Api-component-Images{
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:center;
+
+}
+
+.Api-component-Images::after{
+    /*content: '';
+    width: 680px;*/
+  }
+
+.Imagescomponent{
+    margin:20px;
+}
+
+
+
+.Imagesimage{
+    width:300px;
+}
